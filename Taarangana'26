@@ -1,0 +1,102 @@
+# 🎬 Taarangana'26 3D Announcement Reel
+
+**Open-source collaborative 3D modeling project** for the official Taarangana'26 college cultural fest announcement reel.  
+*Static models only - animations & final integration done by lead developer after contributions.*
+
+## 🎥 Project Vision (12-18s Vertical Reel)
+
+A **dreamy, nostalgic, surreal** journey through a mystical 3D world that reveals the Taarangana'26 fest:
+
+```
+1. GREEN TILED GATE slides open → CLOUDS swirl below
+2. Camera ORBITS cloud pit → hints of VINTAGE TV inside
+3. SPIRAL DIVE through clouds → emerges in FLOWER VALLEY
+4. VINTAGE CRT TV screen glows → "Taarangana'26" chrome logo above
+```
+
+**Format**: 1080×1920 (Instagram Reels/Shorts ready)  
+**Mood**: Cinematic, nostalgic, slightly magical  
+**Reference videos**: [Vio-generated demos attached below]
+
+## 📱 Reference Videos (What We're Thinking to Build)
+
+
+
+## 🏗️ What Contributors Build (MODELS ONLY)
+
+We need these **static 3D assets** for Blender 4.2+:
+
+```
+🔥 HIGH PRIORITY (Build First)
+├── Green Tiled Gate + Corridor Walls
+├── Vintage CRT TV (with screen plane)
+└── Flower Valley Ground + Rocks
+
+⭐ MEDIUM PRIORITY
+├── Stylized Flowers + Mushrooms (scatter-ready)
+└── Moss/Flower Background Wall
+
+⭐ LOW PRIORITY  
+└── Chrome "Taarangana'26" Logo Text
+```
+
+**No animation required** - just clean, UV-unwrapped, named models ready for scene assembly.
+
+## 📂 Expected File Structure
+
+```
+taarangana-video/
+├── README.md                 # This file
+├── REFERENCES/               # Vio videos + concept images
+│   ├── gate_cloud.mp4
+│   ├── tv_valley.jpg
+│   └── storyboard.png
+├── MODELS/                   # Your contributions here!
+│   ├── gate_model.blend
+│   ├── crt_tv.blend
+│   └── flowers.blend
+├── TEXTURES/                 # Any textures you create
+└── RENDERS/                  # Your preview screenshots/videos
+    ├── gate_preview_01.png
+    └── tv_360_render.mp4
+```
+
+## 🎯 Why Contribute?
+
+- **Learn Blender hard-surface + organic modeling**
+- **Portfolio piece**: Official college fest reel credits
+- **Small scoped tasks**: 2-6 hours each, perfect for beginners
+- **Real-world usage**: Your model in 1000+ social media views
+
+## 🚀 Quick Start
+
+```
+1. Fork this repo
+2. Watch REFERENCE videos above
+3. Pick an issue from ISSUES.md
+4. Model → UV unwrap → preview render
+5. Push to taarangana-video/MODELS/
+6. Submit PR with 3-5 renders!
+```
+
+## 🎨 Technical Specs
+
+```
+✅ Blender 4.2+ (free download)
+✅ Low-poly optimized (<50k tris per asset)
+✅ UV unwrapped + clean topology
+✅ NAMING: Collection="Gate_Tiles", Object="GreenGate_Main"
+✅ Materials: Basic PBR (Principled BSDF)
+✅ Scale: Real-world meters (TV ~0.5m tall)
+```
+
+## 📱 Final Output Preview
+
+Once all models are ready → **Single continuous camera shot**:
+```
+Gate opens (0-4s) → Cloud orbit (4-9s) → Spiral dive (9-13s) → TV reveal (13-18s)
+```
+
+**Your models = core of this viral reel for Taarangana'26!**
+
+*
