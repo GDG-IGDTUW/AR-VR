@@ -42,14 +42,18 @@ Each issue below corresponds to **one environment asset** in this flow.
 ---
 
 ## 📦 Folder Structure
-└── issues/
+```text
+issues/
 ├── taarangana-issue-1-corridor/
 ├── taarangana-issue-2-gate/
 ├── taarangana-issue-3-clouds-mountains/
 ├── taarangana-issue-4-tv/
 ├── taarangana-issue-5-flowers/
 └── taarangana-issue-6-moss-wall/
+```
 
 ---
 
 ✨ **Your models = the core of this viral reel for Taarangana'26!**
+
+
