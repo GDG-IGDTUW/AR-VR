@@ -13,6 +13,7 @@ All buildings will be combined into a **mini tech city**, with a **central GDG b
 - Each domain card represents the **idea and theme** of the building.
 - Final result should feel like a **technology city**, not separate random models.
 <img width="553" height="502" alt="Image" src="https://github.com/user-attachments/assets/57c98ab1-8c3f-4a71-ab47-1858ecab2d7f" />
+
 ---
 
 ## 🎯 Project Concept (Read First)
@@ -50,6 +51,7 @@ All buildings will be combined into a **mini tech city**, with a **central GDG b
 ---
 
 ## 📦 Folder Structure
+```text
 gdg-domain-city/
 ├── main-building-model/
 ├── competitive-programming-building-domain-model/
@@ -61,3 +63,4 @@ gdg-domain-city/
 ├── interview-prep-building-domain-model/
 ├── ai-ml-building-domain-model/
 └── web-development-building-domain-model/
+```
