@@ -29,17 +29,28 @@ Each issue below corresponds to **one environment asset** in this flow.
 
 ---
 
-## 🛠 General Rules (Important)
-- Use **Blender only**
-- Apply **Scale + Rotation** (`Ctrl + A`)
-- Keep models **clean, low-poly, and optimized**
-- **UV unwrap everything**
-- **No animations required**
-- **No textures needed unless mentioned** (materials are fine)
-- Pivot/origin should make sense for placement
-- Save files as **`.blend`**
+## 🤝 Contribution Guidelines (Taarangana’26 — 3D Reel Project)
+Please read it before starting your contribution.
+- Pick **only one issue** from the issues
+- Each issue corresponds to **one environment asset**
+- Model **only the asset assigned to your issue**
+- Follow the cinematic style and reference flow provided
+- Models must be:
+  - Low-poly
+  - Clean and optimized
+  - Reusable in a cinematic scene
+- ❌ No animations required
+- ❌ No extra props outside your assigned asset
+- Apply **Scale & Rotation (Ctrl + A)**
+- UV unwrap all meshes
+- Materials are allowed (textures only if mentioned)
+- Pivot/origin must make sense for scene placement
+- Save files strictly as `.blend`
 
 ---
+
+### 📂 Where to Submit Your Work
+Place your `.blend` file **only inside the issue folder you selected**:
 
 ## 📦 Folder Structure
 ```text
