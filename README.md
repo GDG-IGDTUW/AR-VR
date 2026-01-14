@@ -41,12 +41,19 @@ Each contributor models one environment asset used in the final reel.
 
 ---
 
-## 🛠 General Contribution Rules
-- Fork the repository
-- Pick an issue from the relevant project folder
-- Follow the project-specific README
-- Keep assets optimized and clean
-- Submit a Pull Request with previews
+## 🤝 Contribution Guidelines
+
+1. **Fork** this repository to your GitHub account  
+2. **Clone** your fork locally
+   ```bash
+   git clone https://github.com/your-username/gdg-ar-vr.git
+   ```
+3. Navigate to the relevant project folder
+4. Pick an issue from the project you want to contribute to
+5. Follow the project-specific README
+6. Complete your work following the rules in README
+7. Commit and push your changes
+8. Open a Pull Request (PR) with proper details
 
 ---
 
