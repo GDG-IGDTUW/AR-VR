@@ -37,18 +37,29 @@ All buildings will be combined into a **mini tech city**, with a **central GDG b
 
 ---
 
-## 🛠 General Rules (Important)
-- Tool: **Blender only**
-- Apply **Scale + Rotation** (`Ctrl + A`)
-- Keep models **low–mid poly** (AR/VR optimized)
-- **UV unwrap everything**
-- ❌ No animations required
-- Textures optional (simple materials preferred)
-- Pivot / Origin should be logical
-- Save files as **`.blend`**
-- ❌ No copyrighted assets
+## 🤝 Contribution Guidelines (3D Domain City Project)
+Please read it before starting your work.
+- One contributor works on **one domain building only**
+- Choose the correct domain folder before starting
+- Follow the **GDG domain visual reference**
+- The building must visually represent the domain concept
+- Models must be:
+  - Low–mid poly
+  - AR/VR optimized
+  - Clean topology
+- ❌ No environment props (humans, vehicles, trees, roads, etc.)
+- ❌ No animations
+- Apply **Scale & Rotation (Ctrl + A)**
+- UV unwrap all meshes
+- Simple materials preferred (textures optional)
+- Logical pivot/origin placement
+- Save and submit files as `.blend`
 
 ---
+
+## 📂 Where to Submit Your Work
+Place your `.blend` file **only** inside the correct folder:
+
 
 ## 📦 Folder Structure
 ```text
