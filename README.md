@@ -54,13 +54,17 @@ Each contributor models one environment asset used in the final reel.
 6. Complete your work following the rules in README
 7. Commit and push your changes
 8. Open a Pull Request (PR) with proper details
-(File-name/
-├── model.glb       (main file)
-├── preview1.png
-├── preview2.png
-├── example.blend   (optional backup) )
 
----
+## 📦 Project Structure
+
+```
+File-name/
+├── model.glb        # Main 3D model (AR/VR ready)
+├── preview1.png     # Rendered preview image
+├── preview2.png     # Alternate preview image
+└── example.blend    # Optional Blender source file
+```
+
 
 ## 🌟 Community & Credits
 This repository is maintained by **GDG contributors**.  
