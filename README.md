@@ -54,6 +54,11 @@ Each contributor models one environment asset used in the final reel.
 6. Complete your work following the rules in README
 7. Commit and push your changes
 8. Open a Pull Request (PR) with proper details
+(File-name/
+├── model.glb       (main file)
+├── preview1.png
+├── preview2.png
+├── example.blend   (optional backup) )
 
 ---
 
